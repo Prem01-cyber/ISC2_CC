@@ -27,6 +27,7 @@ Type of Cloud computing service models:
 1. **Software as a Service (SaaS)** - provides access to software applications but not the equipment necessary for customers to build and operate their own software.
 2. **Platform as a Service (PaaS)** - provides a set of software building blocks and development tools, such as programming languages and supporting a run-time environment, that facilitate the construction of high-quality, scalable applications.
 3. **Infrastructure as a Service (IaaS)** - provides use of hardware and related equipment that is retained by the provider but does not allow customers to build and operate their own software in the most suitable way, since it would also require them to manage the operating systems as well.
+the customer typically owns the OS and the applications in this.
 
 # Deployment Models
 There are 4 cloud deployment models
